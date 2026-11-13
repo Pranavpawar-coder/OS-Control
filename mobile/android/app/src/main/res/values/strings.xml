@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OS-Control</string>
+    <string name="accessibility_service_description">Enables AI agents to interact with and automate Android interface elements through native accessibility APIs.</string>
+</resources>
+
